@@ -13,10 +13,3 @@
 | PayPal  | Data Analyst Intern  | 	London, UK  | [Link](https://paypal.eightfold.ai/careers?query=globaluniversityinterndataanalytics&domain=paypal.com)  | 04/10/2023  |
 | Maven Securities  | Software Developer Summer Internship London 2024  | London, UK  | [Link](https://www.mavensecurities.com/jobs/?gh_jid=4947751)  | 04/10/2023  |
 | Epic Games  | AI Programmer Intern  | London, UK  | [Link](https://www.epicgames.com/site/en-US/careers/jobs/4957202004)  | 04/10/2023  |
-| Content Cell  | Content Cell  | Content Cell  | Link  | 04/10/2023  |
-| Content Cell  | Content Cell  | Content Cell  | Link  | 04/10/2023  |
-| Content Cell  | Content Cell  | Content Cell  | Link  | 04/10/2023  |
-| Content Cell  | Content Cell  | Content Cell  | Link  | 04/10/2023  |
-| Content Cell  | Content Cell  | Content Cell  | Link  | 04/10/2023  |
-| Content Cell  | Content Cell  | Content Cell  | Link  | 04/10/2023  |
-| Content Cell  | Content Cell  | Content Cell  | Link  | 04/10/2023  |
